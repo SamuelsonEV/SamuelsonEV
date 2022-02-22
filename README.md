@@ -1,4 +1,7 @@
 ### Hi there 👋
+<br>
+<img align="right" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=samuelsonev&repo=samuelsonev&countColorcountColor&style=flat">
+<br>
 
 <!--
 **SamuelsonEV/SamuelsonEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
