@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg [
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
 	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
 	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
 	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
@@ -10,9 +10,9 @@
 	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
 	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
 ]>
-<svg version="1.2" baseProfile="tiny" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+<svg version="1.0" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2050 365"
-	 xml:space="preserve">
+	 enable-background="new 0 0 2050 365" xml:space="preserve">
 <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c145 79.163499, 2018/08/13-16:40:22        ">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -22,9 +22,14 @@
             xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
             xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
             xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
-            xmlns:dc="http://purl.org/dc/elements/1.1/">
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
          <xmp:CreatorTool>Adobe Illustrator CC 23.0 (Windows)</xmp:CreatorTool>
-         <xmp:CreateDate>2022-02-22T20:41:16-03:00</xmp:CreateDate>
+         <xmp:CreateDate>2022-02-22T20:52:22-03:00</xmp:CreateDate>
+         <xmp:MetadataDate>2022-02-22T20:52:22-03:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2022-02-22T20:52:22-03:00</xmp:ModifyDate>
          <xmp:Thumbnails>
             <rdf:Alt>
                <rdf:li rdf:parseType="Resource">
@@ -58,6 +63,34 @@
             </rdf:Seq>
          </xmpTPg:SwatchGroups>
          <dc:format>image/svg+xml</dc:format>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:9fac5532-30b3-a04a-a692-5e4877caaebd</stRef:instanceID>
+            <stRef:documentID>xmp.did:9fac5532-30b3-a04a-a692-5e4877caaebd</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:e9520779-de1e-aa41-b917-e712f465d667</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:DocumentID>xmp.did:aa472d2b-6c69-8d47-ba17-b1b86e8f88d0</xmpMM:DocumentID>
+         <xmpMM:InstanceID>xmp.iid:aa472d2b-6c69-8d47-ba17-b1b86e8f88d0</xmpMM:InstanceID>
+         <xmpMM:OriginalDocumentID>xmp.did:e9520779-de1e-aa41-b917-e712f465d667</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:e9520779-de1e-aa41-b917-e712f465d667</stEvt:instanceID>
+                  <stEvt:when>2022-02-22T20:46:31-03:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 23.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:aa472d2b-6c69-8d47-ba17-b1b86e8f88d0</stEvt:instanceID>
+                  <stEvt:when>2022-02-22T20:52:22-03:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 23.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>
@@ -84,10 +117,220 @@
                            
 <?xpacket end="w"?>
 	</metadata>
+<filter  filterUnits="objectBoundingBox" height="100%" id="alpha" width="100%" x="0%" y="0%">
+	<feColorMatrix  in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix>
+</filter>
 <g id="Camada_1">
 	<g id="surface1">
-		<image width="3042" height="3009" xlink:href="FC2B30D4.png"  transform="matrix(1 0 0 1 -496 -1379.5)">
-		</image>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" y="-125.4" width="2049.3" height="499.8"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-495.4" y="-1379.2" width="3040.6" height="3007.9">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="-495.4" y="-1379.2" width="3040.6" height="3007.9" id="mask0_1_">
+				<g filter="url(#alpha)">
+					<g>
+						<rect y="-125.5" opacity="0.8588" clip-path="url(#SVGID_2_)" width="2050" height="500"/>
+					</g>
+				</g>
+			</mask>
+			<g clip-path="url(#SVGID_2_)" mask="url(#mask0_1_)">
+				<g transform="matrix(1,0,0,1,0,-0.000000000000024251)">
+					<g>
+						<defs>
+							<rect id="SVGID_3_" y="-125.5" width="2049.3" height="500"/>
+						</defs>
+						<clipPath id="SVGID_4_">
+							<use xlink:href="#SVGID_3_"  overflow="visible"/>
+						</clipPath>
+						<g id="surface5" clip-path="url(#SVGID_4_)">
+							<g>
+								<defs>
+									<rect id="SVGID_5_" y="-0.2" width="2049.3" height="374.6"/>
+								</defs>
+								<clipPath id="SVGID_6_">
+									<use xlink:href="#SVGID_5_"  overflow="visible"/>
+								</clipPath>
+								<g clip-path="url(#SVGID_6_)">
+									<g>
+										<defs>
+											
+												<rect id="SVGID_7_" x="-94.6" y="-921.3" transform="matrix(0.8096 -0.5869 0.5869 0.8096 121.8926 625.2685)" width="2239" height="2092"/>
+										</defs>
+										<clipPath id="SVGID_8_">
+											<use xlink:href="#SVGID_7_"  overflow="visible"/>
+										</clipPath>
+										<g clip-path="url(#SVGID_8_)">
+											<g>
+												<defs>
+													
+														<rect id="SVGID_9_" x="-94.6" y="-921.3" transform="matrix(0.8096 -0.5869 0.5869 0.8096 121.8926 625.2685)" width="2239" height="2092"/>
+												</defs>
+												<clipPath id="SVGID_10_">
+													<use xlink:href="#SVGID_9_"  overflow="visible"/>
+												</clipPath>
+												<g clip-path="url(#SVGID_10_)">
+													<g>
+														<defs>
+															<path id="SVGID_11_" d="M-232.9,158C-222.1,306.4,640.4,743,928,812.6c340.7,82.3,749.2,79.9,1053.7-123
+																c561.7-374.4-238.1-911.4-845.8-591.5C610.5,374.5-261.5-235.2-232.9,158z"/>
+														</defs>
+														<clipPath id="SVGID_12_">
+															<use xlink:href="#SVGID_11_"  overflow="visible"/>
+														</clipPath>
+														<g clip-path="url(#SVGID_12_)">
+															
+																<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="564.6387" y1="880.3463" x2="685.8929" y2="880.3463" gradientTransform="matrix(7.7811 10.7336 -10.7359 7.7827 5610.7222 -13438.3623)">
+																<stop  offset="0" style="stop-color:#5E17EB"/>
+																<stop  offset="1.600000e-02" style="stop-color:#5E17EB"/>
+																<stop  offset="2.300000e-02" style="stop-color:#5E17EB"/>
+																<stop  offset="3.100000e-02" style="stop-color:#5D17EA"/>
+																<stop  offset="3.900000e-02" style="stop-color:#5C18EA"/>
+																<stop  offset="4.700000e-02" style="stop-color:#5C18EA"/>
+																<stop  offset="5.500000e-02" style="stop-color:#5B19E9"/>
+																<stop  offset="6.300000e-02" style="stop-color:#5A19E9"/>
+																<stop  offset="7.000000e-02" style="stop-color:#5A19E8"/>
+																<stop  offset="7.800000e-02" style="stop-color:#591AE8"/>
+																<stop  offset="8.600000e-02" style="stop-color:#581AE7"/>
+																<stop  offset="9.400000e-02" style="stop-color:#581AE7"/>
+																<stop  offset="0.102" style="stop-color:#571BE7"/>
+																<stop  offset="0.109" style="stop-color:#571BE6"/>
+																<stop  offset="0.117" style="stop-color:#561BE6"/>
+																<stop  offset="0.125" style="stop-color:#551CE5"/>
+																<stop  offset="0.133" style="stop-color:#551CE5"/>
+																<stop  offset="0.141" style="stop-color:#541CE4"/>
+																<stop  offset="0.148" style="stop-color:#531DE4"/>
+																<stop  offset="0.156" style="stop-color:#531DE3"/>
+																<stop  offset="0.164" style="stop-color:#521EE3"/>
+																<stop  offset="0.172" style="stop-color:#511EE3"/>
+																<stop  offset="0.18" style="stop-color:#511EE2"/>
+																<stop  offset="0.188" style="stop-color:#501FE2"/>
+																<stop  offset="0.195" style="stop-color:#4F1FE1"/>
+																<stop  offset="0.203" style="stop-color:#4F1FE1"/>
+																<stop  offset="0.211" style="stop-color:#4E20E0"/>
+																<stop  offset="0.219" style="stop-color:#4D20E0"/>
+																<stop  offset="0.227" style="stop-color:#4D20E0"/>
+																<stop  offset="0.234" style="stop-color:#4C21DF"/>
+																<stop  offset="0.242" style="stop-color:#4B21DF"/>
+																<stop  offset="0.25" style="stop-color:#4B21DE"/>
+																<stop  offset="0.258" style="stop-color:#4A22DE"/>
+																<stop  offset="0.266" style="stop-color:#4922DD"/>
+																<stop  offset="0.273" style="stop-color:#4923DD"/>
+																<stop  offset="0.281" style="stop-color:#4823DD"/>
+																<stop  offset="0.289" style="stop-color:#4723DC"/>
+																<stop  offset="0.297" style="stop-color:#4724DC"/>
+																<stop  offset="0.305" style="stop-color:#4624DB"/>
+																<stop  offset="0.313" style="stop-color:#4524DB"/>
+																<stop  offset="0.32" style="stop-color:#4525DA"/>
+																<stop  offset="0.328" style="stop-color:#4425DA"/>
+																<stop  offset="0.336" style="stop-color:#4325D9"/>
+																<stop  offset="0.344" style="stop-color:#4326D9"/>
+																<stop  offset="0.352" style="stop-color:#4226D9"/>
+																<stop  offset="0.359" style="stop-color:#4126D8"/>
+																<stop  offset="0.367" style="stop-color:#4127D8"/>
+																<stop  offset="0.375" style="stop-color:#4027D7"/>
+																<stop  offset="0.383" style="stop-color:#4028D7"/>
+																<stop  offset="0.391" style="stop-color:#3F28D6"/>
+																<stop  offset="0.398" style="stop-color:#3E28D6"/>
+																<stop  offset="0.406" style="stop-color:#3E29D6"/>
+																<stop  offset="0.414" style="stop-color:#3D29D5"/>
+																<stop  offset="0.422" style="stop-color:#3C29D5"/>
+																<stop  offset="0.43" style="stop-color:#3C2AD4"/>
+																<stop  offset="0.438" style="stop-color:#3B2AD4"/>
+																<stop  offset="0.445" style="stop-color:#3A2AD3"/>
+																<stop  offset="0.453" style="stop-color:#3A2BD3"/>
+																<stop  offset="0.461" style="stop-color:#392BD3"/>
+																<stop  offset="0.469" style="stop-color:#382BD2"/>
+																<stop  offset="0.477" style="stop-color:#382CD2"/>
+																<stop  offset="0.484" style="stop-color:#372CD1"/>
+																<stop  offset="0.492" style="stop-color:#362DD1"/>
+																<stop  offset="0.5" style="stop-color:#362DD0"/>
+																<stop  offset="0.508" style="stop-color:#352DD0"/>
+																<stop  offset="0.516" style="stop-color:#342ED0"/>
+																<stop  offset="0.523" style="stop-color:#342ECF"/>
+																<stop  offset="0.531" style="stop-color:#332ECF"/>
+																<stop  offset="0.539" style="stop-color:#322FCE"/>
+																<stop  offset="0.547" style="stop-color:#322FCE"/>
+																<stop  offset="0.555" style="stop-color:#312FCD"/>
+																<stop  offset="0.563" style="stop-color:#3030CD"/>
+																<stop  offset="0.57" style="stop-color:#3030CC"/>
+																<stop  offset="0.578" style="stop-color:#2F30CC"/>
+																<stop  offset="0.586" style="stop-color:#2E31CC"/>
+																<stop  offset="0.594" style="stop-color:#2E31CB"/>
+																<stop  offset="0.602" style="stop-color:#2D31CB"/>
+																<stop  offset="0.609" style="stop-color:#2C32CA"/>
+																<stop  offset="0.617" style="stop-color:#2C32CA"/>
+																<stop  offset="0.625" style="stop-color:#2B33C9"/>
+																<stop  offset="0.633" style="stop-color:#2B33C9"/>
+																<stop  offset="0.641" style="stop-color:#2A33C9"/>
+																<stop  offset="0.648" style="stop-color:#2934C8"/>
+																<stop  offset="0.656" style="stop-color:#2934C8"/>
+																<stop  offset="0.664" style="stop-color:#2834C7"/>
+																<stop  offset="0.672" style="stop-color:#2735C7"/>
+																<stop  offset="0.68" style="stop-color:#2735C6"/>
+																<stop  offset="0.688" style="stop-color:#2635C6"/>
+																<stop  offset="0.695" style="stop-color:#2536C6"/>
+																<stop  offset="0.703" style="stop-color:#2536C5"/>
+																<stop  offset="0.711" style="stop-color:#2436C5"/>
+																<stop  offset="0.719" style="stop-color:#2337C4"/>
+																<stop  offset="0.727" style="stop-color:#2337C4"/>
+																<stop  offset="0.734" style="stop-color:#2238C3"/>
+																<stop  offset="0.742" style="stop-color:#2138C3"/>
+																<stop  offset="0.75" style="stop-color:#2138C2"/>
+																<stop  offset="0.758" style="stop-color:#2039C2"/>
+																<stop  offset="0.766" style="stop-color:#1F39C2"/>
+																<stop  offset="0.773" style="stop-color:#1F39C1"/>
+																<stop  offset="0.781" style="stop-color:#1E3AC1"/>
+																<stop  offset="0.789" style="stop-color:#1D3AC0"/>
+																<stop  offset="0.797" style="stop-color:#1D3AC0"/>
+																<stop  offset="0.805" style="stop-color:#1C3BBF"/>
+																<stop  offset="0.813" style="stop-color:#1B3BBF"/>
+																<stop  offset="0.82" style="stop-color:#1B3BBF"/>
+																<stop  offset="0.828" style="stop-color:#1A3CBE"/>
+																<stop  offset="0.836" style="stop-color:#193CBE"/>
+																<stop  offset="0.844" style="stop-color:#193DBD"/>
+																<stop  offset="0.852" style="stop-color:#183DBD"/>
+																<stop  offset="0.859" style="stop-color:#173DBC"/>
+																<stop  offset="0.867" style="stop-color:#173EBC"/>
+																<stop  offset="0.875" style="stop-color:#163EBC"/>
+																<stop  offset="0.883" style="stop-color:#153EBB"/>
+																<stop  offset="0.891" style="stop-color:#153FBB"/>
+																<stop  offset="0.898" style="stop-color:#143FBA"/>
+																<stop  offset="0.906" style="stop-color:#143FBA"/>
+																<stop  offset="0.914" style="stop-color:#1340B9"/>
+																<stop  offset="0.922" style="stop-color:#1240B9"/>
+																<stop  offset="0.93" style="stop-color:#1240B8"/>
+																<stop  offset="0.938" style="stop-color:#1141B8"/>
+																<stop  offset="0.945" style="stop-color:#1041B8"/>
+																<stop  offset="0.953" style="stop-color:#1042B7"/>
+																<stop  offset="0.961" style="stop-color:#0F42B7"/>
+																<stop  offset="0.969" style="stop-color:#0E42B6"/>
+																<stop  offset="0.977" style="stop-color:#0E43B6"/>
+																<stop  offset="0.984" style="stop-color:#0D43B5"/>
+																<stop  offset="0.992" style="stop-color:#0C43B5"/>
+																<stop  offset="1" style="stop-color:#0C44B5"/>
+															</linearGradient>
+															<path fill="url(#SVGID_13_)" d="M-237.5,46.8l1580.9-1146l943.5,1301.5L706,1348.3L-237.5,46.8z"/>
+														</g>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
 	</g>
 </g>
 <g id="Camada_2">
