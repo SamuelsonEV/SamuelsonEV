@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div><br>
+  <a href="https://www.linkedin.com/in/samuelson-esteves/">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuelsonev&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsonev&layout=compact&langs_count=7&theme=solarized-light">
+</div>
