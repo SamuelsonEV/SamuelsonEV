@@ -56,6 +56,7 @@ My name is Samuelson, but call me Sam !<br> I`m a passionate developer from Braz
 
 ### IDEs and Tools
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm&logoColor=000000&color=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter&logoColor=f37726&color=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-000?&logo=intellijidea&logoColor=000000&color=white)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=webstorm&logoColor=000000&color=white)
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-000?&logo=visualstudio&logoColor=c17ad1&color=white)
