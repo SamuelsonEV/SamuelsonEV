@@ -28,7 +28,9 @@ My name is Samuelson, but call me Sam !<br> I`m a passionate developer from Braz
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelson-esteves/)](https://www.linkedin.com/in/samuelson-esteves/)
 [![Mail](https://img.shields.io/badge/-Mail-d03f33?style=flat&logo=gmail&logoColor=white&link=mailto:samuelsonsev@gmail.com)](mailto:samuelsonsev@gmail.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/Q5Q37N7Y9)](https://ko-fi.com/Q5Q37N7Y9)
-
+  
+  
+## 🛠️ My favorite tools 🛠️
 ### Languages
 
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash&color=white)
