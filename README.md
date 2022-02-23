@@ -67,6 +67,8 @@ My name is Samuelson, but call me Sam !<br> I`m a passionate developer from Braz
 ![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=codepen&logoColor=0a0a08&color=white)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&color=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-000?&logo=virtualbox&logoColor=17365f&color=white)
+![Vagrant](https://img.shields.io/badge/-Vagrant-000?&logo=vagrant&logoColor=278cc6&color=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino&logoColor=00979D&color=white)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender&color=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobeillustrator&logoColor=310000&color=white)
