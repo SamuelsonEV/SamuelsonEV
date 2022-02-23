@@ -46,9 +46,9 @@ My name is Samuelson, but call me Sam !<br> I`m a passionate developer from Braz
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=latex&logoColor=008080&color=white)
 
 ### Frameworks and libraries
-
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&logoColor=00008b&color=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy&logoColor=7f7fff&color=white)
+![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=selenium&logoColor=6d889a&color=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&color=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch&color=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&color=white)
@@ -64,6 +64,7 @@ My name is Samuelson, but call me Sam !<br> I`m a passionate developer from Braz
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter&logoColor=f37726&color=white)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=e84e31&color=white)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman&color=white)
+![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=selenium&logoColor=6d889a&color=white)
 ![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=codepen&logoColor=0a0a08&color=white)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&color=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=white)
