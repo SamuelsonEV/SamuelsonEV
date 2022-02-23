@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Hi there 👋  
   
 <p align="left">  
-My name is Samuelson, but call me Sam !<br> I`m a passionate developer from Brazil that like to share knowledge and solve problems. <br> Wanna hire me !??? My contact info is just below   <br>
+My name is Samuelson, but call me Sam !<br> I`m a passionate developer from Brazil that like to share knowledge and solve problems. <br> Wanna support me ???   Send me some coffe :coffee:; Wanna hire me !??? Everything is right below :wink:  <br>
 </p>
   
   ---
