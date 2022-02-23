@@ -56,11 +56,13 @@ My name is Samuelson, but call me Sam !<br> I`m a passionate developer from Braz
 
 ### IDEs and Tools
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm&logoColor=000000&color=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter&logoColor=f37726&color=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-000?&logo=intellijidea&logoColor=000000&color=white)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=webstorm&logoColor=000000&color=white)
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-000?&logo=visualstudio&logoColor=c17ad1&color=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter&logoColor=f37726&color=white)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=e84e31&color=white)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman&color=white)
+![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=codepen&logoColor=0a0a08&color=white)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&color=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino&logoColor=00979D&color=white)
