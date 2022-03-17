@@ -43,6 +43,8 @@ My name is Samuelson, but you call me Sam !<br> I`m a passionate developer from 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&color=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=07405e&color=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown&logoColor=1f0322&color=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&color=white)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6&color=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=latex&logoColor=008080&color=white)
 
 ### Frameworks and libraries
