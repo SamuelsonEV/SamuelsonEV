@@ -39,7 +39,7 @@ My name is Samuelson, but you call me Sam !<br> I`m a passionate developer from 
 ![C](https://img.shields.io/badge/-C-000?&logo=C&color=white)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396&color=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=white)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart3366ff&color=white)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&logoColor=3366ff&color=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&color=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=07405e&color=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown&logoColor=1f0322&color=white)
